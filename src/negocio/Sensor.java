@@ -23,4 +23,5 @@ public class Sensor {
     void reiniciarLectura(){
         lectura = 0;
     };
+
 }
